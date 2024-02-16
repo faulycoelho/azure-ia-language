@@ -11,3 +11,6 @@ In [Portal Azure](https://portal.azure.com/), create a new resource, in category
 6. See result:
 
    <img width="373" alt="image" src="https://github.com/faulycoelho/azure-ia-language/assets/37049426/e9a3e889-da8a-473e-bb9a-91e589817f56">
+
+# Final Analyze
+Resource capable of analyzing customer feedback on a large scale to improve product offerings
