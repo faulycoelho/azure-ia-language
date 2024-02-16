@@ -1,0 +1,14 @@
+Negative:
+
+"The technology course I bought was a complete disappointment; the content was superficial and outdated."
+"I was extremely dissatisfied with the technology course I purchased; the student support was non-existent, and the instructional material was confusing."
+
+Neutral:
+
+"The technology course I bought offered a basic and straightforward approach for beginners."
+"Purchasing the technology course was a smooth experience; the content was standard and met my minimum expectations."
+
+Positive:
+
+"I'm very pleased with the technology course I bought; the content was rich and well-structured, which helped me enhance my skills."
+"Acquiring the technology course was an excellent decision; the instructors were experts, and the material was up-to-date, providing engaging and effective learning."
